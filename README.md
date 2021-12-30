@@ -10,7 +10,8 @@
 # Me chamo Henrique Cordeiro
 
 - 🎓 Curso Tecnico informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) campus campinas.
-- 🎡 Pretendo fazer Faculdade de Ciencia da Computação
+- 🎡 Pretendo arrumar um estagio na area análogos programação
+- 🎲 Pretendo fazer Superior com areas análogos a programação
 
 
 <h1> Formas de contato:</h1>
