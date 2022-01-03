@@ -26,7 +26,7 @@
 <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/6ef425ad02b4fb059c20e002eacf96c3/c2975d2792720846-31/s1280x1920/5fe0723a9ee08fb8239c366fbae2980558a2974c.jpg">
+
 </div>
 
 
