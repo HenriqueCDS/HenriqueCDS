@@ -9,9 +9,9 @@
 <!-- Conteudo do Perfil--->
 #Me chamo Henrique Cordeiro
 
-- 🎓 Curso Tecnico informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) campus campinas.
-- 🎡 Pretendo arrumar um estagio na area análogos programação
-- 🎲 Pretendo fazer Superior com areas análogos a programação
+- IFSP Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Campinas Ensino Médio Integrado ao Técnico de Informática  
+Fev DE 2018 dez 2021, status("Concluído") 
+- UNIFAVIP  WYDEN EAD - Curso de graduação de análise e desenvolvimento de software Fev DE 2022- dez 2025  status("Em andamento") 
 
 
 <h1> Formas de contato:</h1>
