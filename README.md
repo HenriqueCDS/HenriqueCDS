@@ -28,6 +28,7 @@ Fev DE 2018 dez 2021, status: ("Concluído")
 
 
 </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxtrez&&show_icons=true&title_color=f1e05a&icon_color=03A87C&text_color=ffffff&bg_color=000000&border_radius=0.75rem&layout=compact">
 
 
 
