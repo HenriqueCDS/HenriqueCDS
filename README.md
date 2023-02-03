@@ -25,8 +25,7 @@ Fev DE 2018 dez 2021, status: ("Concluído")
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="center" alt="Node js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
-<img align="center" alt="Rest Api" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2165/2165022.png" />
+
 
 </div>
 <br>
