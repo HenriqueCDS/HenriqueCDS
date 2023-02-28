@@ -7,7 +7,7 @@
 
 
 <!-- Conteudo do Perfil--->
-Me chamo Henrique Cordeiro ツ
+Henrique Cordeiro ツ
 
 - IFSP Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Campinas Ensino Médio Integrado ao Técnico de Informática  
 Fev DE 2018 dez 2021, status: ("Concluído") 
