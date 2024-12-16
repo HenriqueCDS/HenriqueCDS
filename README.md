@@ -11,7 +11,7 @@ Henrique Cordeiro ツ
 
 - IFSP Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Campinas Ensino Médio Integrado ao Técnico de Informática  
 Fev DE 2018 dez 2021, status: ("Concluído") 
-- UNIFAVIP  WYDEN EAD - Curso de graduação de análise e desenvolvimento de software Fev DE 2022 - dez 2024  status ("Em andamento")  
+- UNIFAVIP  WYDEN EAD - Curso de graduação de análise e desenvolvimento de software Fev DE 2022 - dez 2024  status:("Concluído")  
 
 
 <h1> Formas de contato:</h1>
