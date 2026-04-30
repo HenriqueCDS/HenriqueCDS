@@ -3,16 +3,15 @@
 💻 Desenvolvedor **Full Stack** com foco em **Backend, APIs, Frontend e Engenharia de Dados**  
 📍 Hortolândia/SP – Brasil | 🎓 Pós-graduando em Ciência de Dados & ML (PUC-Campinas)
 
-Atuo na **PUC-Campinas** integrando sistemas acadêmicos e automatizando processos com Python. Tenho experiência prática em **ETL, APIs REST, análise de dados e desenvolvimento de interfaces com React e JavaScript**, com formação em andamento voltada a **Machine Learning e Ciência de Dados**.
-
 ---
 
 ## 🚀 Experiência
 
 🔹 **PUC-Campinas – Analista de Suporte Júnior** *(2024 – atual)*
-- Integração entre sistemas Canvas LMS e Lyceum via APIs REST, reduzindo retrabalho manual do setor
+- Suporte da plataforma Canvas as secretarias, professores e alunos 
+- Integração entre sistemas Canvas LMS  via APIs REST, reduzindo retrabalho manual do setor
 - Automação de processos com Python (scripts de ETL, validação e carga de dados)
-- Tratamento e enriquecimento de dados em larga escala com Pandas
+- Tratamento de dados em larga escala com Pandas
 - Documentação técnica de integrações e fluxos de dados
 
 🔹 **FUNCAMP – Estagiário em Desenvolvimento de Software** *(2023 – 2024)*
@@ -60,19 +59,6 @@ Atuo na **PUC-Campinas** integrando sistemas acadêmicos e automatizando process
 <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-
----
-
-## 📌 Projetos em Destaque
-
-> *(Adicione aqui links para seus repositórios mais relevantes — projetos de ETL, APIs, análise de dados ou ML têm alto valor para recrutadores)*
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [Em breve](#) | Pipeline de ETL automatizado | Python, Pandas, MySQL |
-| [Em breve](#) | API REST com autenticação | Java, Spring Boot |
-| [Em breve](#) | Interface web com consumo de API | React, JavaScript, CSS |
-| [Em breve](#) | Análise exploratória de dados | Python, Jupyter, NumPy |
 
 ---
 
