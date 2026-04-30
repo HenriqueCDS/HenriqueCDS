@@ -59,29 +59,6 @@ Atuo na **PUC-Campinas** integrando sistemas acadêmicos e automatizando process
 
 </div>
 
----
-
-## 📌 Projetos em Destaque
-
-> *(Adicione aqui links para seus repositórios mais relevantes — projetos de ETL, APIs, análise de dados ou ML têm alto valor para recrutadores)*
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [Em breve](#) | Pipeline de ETL automatizado | Python, Pandas, MySQL |
-| [Em breve](#) | API REST com autenticação | Java, Spring Boot |
-| [Em breve](#) | Interface web com consumo de API | React, JavaScript, CSS |
-| [Em breve](#) | Análise exploratória de dados | Python, Jupyter, NumPy |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenriqueCDS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCDS&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
 
 ## 📫 Contato
 
