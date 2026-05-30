@@ -3,28 +3,6 @@
 💻 Desenvolvedor **Full Stack** com foco em **Backend, APIs, Frontend e Engenharia de Dados**  
 📍 Hortolândia/SP – Brasil | 🎓 Pós-graduando em Ciência de Dados & ML (PUC-Campinas)
 
-Atuo na **PUC-Campinas** integrando sistemas acadêmicos e automatizando processos com Python. Tenho experiência prática em **ETL, APIs REST, análise de dados e desenvolvimento de interfaces com React e JavaScript**, com formação em andamento voltada a **Machine Learning e Ciência de Dados**.
-
----
-
-## 🚀 Experiência
-
-🔹 **PUC-Campinas – Analista de Suporte Júnior** *(2024 – atual)*
-- Suporte da plataforma Canvas LMS para usuários internos
-- Integração entre sistemas Canvas LMS e Lyceum via APIs REST, reduzindo retrabalho manual do setor
-- Automação de processos com Python (scripts de ETL, validação e carga de dados)
-- Tratamento e enriquecimento de dados em larga escala com Pandas
-- Documentação técnica de integrações e fluxos de dados
-
-🔹 **FUNCAMP – Estagiário em Desenvolvimento de Software** *(2023 – 2024)*
-- Desenvolvimento de interfaces web com **React e JavaScript**, integradas a APIs REST
-- Estilização de componentes responsivos com **HTML5, CSS3 e JavaScript**
-- Backend e lógica de negócio com **Java e Spring Boot**
-- Modelagem e manipulação de banco de dados relacional (MySQL)
-- Participação em ciclos de desenvolvimento com metodologia Scrum
-
----
-
 ## 🎓 Formação
 
 - 🎓 **Pós-graduação** em Ciência de Dados e Machine Learning – PUC-Campinas *(em andamento)*
