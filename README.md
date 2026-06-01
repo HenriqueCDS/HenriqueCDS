@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # Henrique Cordeiro
 
@@ -49,22 +49,10 @@ Full Stack Developer with experience building scalable APIs, modern web interfac
 
 | Degree | Institution | Year |
 |---|---|---|
-| Postgraduate – Data Science & Machine Learning | PUC-Campinas | *In progress* |
+| Postgraduate – Data Science & Machine Learning | PUC-Campinas | 2026 |
 | Bachelor's – Systems Analysis and Development | UniMetrocamp Wyden | 2024 |
 | Technical Diploma – Computer Science | IFSP Campinas | 2021 |
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=HenriqueCDS&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCDS&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
----
 
 <div align="center">
 
